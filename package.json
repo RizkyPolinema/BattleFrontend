@@ -52,6 +52,10 @@
     "release-it": "13.6.4",
     "tailwindcss": "3.0.24"
   },
+  "engines": {
+    "node": "16.14.1",
+    "npm": "8.5.0"
+  },
   "keywords": [
     "windmill",
     "dashboard",
