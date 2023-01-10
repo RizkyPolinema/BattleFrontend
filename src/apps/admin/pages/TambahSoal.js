@@ -14,9 +14,9 @@ import { useHistory, useParams } from 'react-router-dom';
 import AuthService from "../../../services/auth.service";
 import SoalService from "../service/soal.service";
 import toast, { Toaster } from 'react-hot-toast';
-import SoalTipe1 from "./component/TambahSoal/SoalTipe1";
-import SoalTipe2 from "./component/TambahSoal/SoalTipe2";
-import SoalTipe3 from "./component/TambahSoal/SoalTipe3";
+// import SoalTipe1 from "./component/TambahSoal/SoalTipe1";
+// import SoalTipe2 from "./component/TambahSoal/SoalTipe2";
+// import SoalTipe3 from "./component/TambahSoal/SoalTipe3";
 
 function TambahSoal() {
 

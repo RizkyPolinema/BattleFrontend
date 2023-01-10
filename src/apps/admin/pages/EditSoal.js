@@ -14,9 +14,9 @@ import AuthService from "../../../services/auth.service";
 import HurufService from "../service/huruf.service";
 import SoalService from "../service/soal.service";
 import toast, { Toaster } from 'react-hot-toast';
-import SoalTipe1 from "./component/EditSoal/SoalTipe1";
-import SoalTipe2 from "./component/EditSoal/SoalTipe2";
-import SoalTipe3 from "./component/EditSoal/SoalTipe3";
+// import SoalTipe1 from "./component/EditSoal/SoalTipe1";
+// import SoalTipe2 from "./component/EditSoal/SoalTipe2";
+// import SoalTipe3 from "./component/EditSoal/SoalTipe3";
 import { useForm } from "react-hook-form";
 import { Switch } from "@headlessui/react";
 
